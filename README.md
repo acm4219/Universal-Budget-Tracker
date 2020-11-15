@@ -13,5 +13,5 @@ The major challenge for this was figuring out how to save the data offline, thro
 This application wouldn't be possible without the boilerplate code provided by the Bootcamp and help from my TA's and Classmates.
 
 ## App image
-
+[image link if alt text doesnt work](https://acm4219.github.io/Universal-Budget-Tracker/pictureAssets/universalbudgettracker.JPG)
 ![alt text](https://github.com/acm4219/Universal-Budget-Tracker/blob/main/pictureAssets/universalbudgettracker.JPG)
