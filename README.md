@@ -11,3 +11,7 @@ This app is a Progressive Web Application that can be used online and offline wh
 The major challenge for this was figuring out how to save the data offline, through a lot of research and help from classmates and TA's we were able to get it working. 
 ## Credits
 This application wouldn't be possible without the boilerplate code provided by the Bootcamp and help from my TA's and Classmates.
+
+## App image
+
+![alt text](https://github.com/acm4219/Universal-Budget-Tracker/blob/main/pictureAssets/universalbudgettracker.JPG)
